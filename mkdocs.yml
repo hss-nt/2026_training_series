@@ -1,5 +1,5 @@
 site_name: Humanities & Social Sciences Training Series, 2026-27
-site_url: https://hss-nt.github.io/2026_training_series
+site_url: https://hss-nt.github.io/2026_training_series/
 theme:
   name: material
   palette:
@@ -33,14 +33,6 @@ markdown_extensions:
       
 nav:
   - Introduction: index.md
-#   - Land Acknowledgement: land_acknowledgement.markdown 
-#   - Getting Started:
-#     - HPC Crashcourse: terminal.md
-#     - Accessing RStudio: rstudio.md
-#   - Analysis with R:
-#     - Analysing data in RStudio: analysing_rstudio.md
-#     - Using R in the shell: rscripts.md
-#     - Running jobs with R: batch_jobs.md
   
 
 extra_css:
