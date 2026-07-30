@@ -14,7 +14,7 @@ All workshops are offered online and registration is free. The workshops are aim
 Other workshops may be added to the series over time - check back regularly to see! 
 
 ### Introduction to the Alliance & ARC for HSS
-**September 22nd, 2026** at 9am PT|10am MT|12pm ET|2pm AT
+**September 22nd, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
 
 ??? "Workshop description"
 
@@ -24,7 +24,7 @@ Other workshops may be added to the series over time - check back regularly to s
     Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the Humanities and Social Sciences Specialist with the Digital Research Services team at the University of Alberta. She holds a PhD in Sociology awarded from the University of Toronto in 2024. Her research focuses on computational methods, political discourse, and gender. She is also the chair of the [National Humanities and Social Sciences Team](https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences) at the Digital Research Alliance of Canada.   
 
 ### Introduction à l'Alliance & CIP pour SSH
-**September 24, 2026** at 9am PT|10am MT|12pm ET|2pm AT
+**September 24, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
 
 ??? "Workshop description"
 
@@ -45,7 +45,7 @@ Other workshops may be added to the series over time - check back regularly to s
 
 ### Introduction to the cloud for HSS
 
-**November 3, 2026** at 9am PT|10am MT|12pm ET|2pm AT
+**November 3, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
 
 ??? "Workshop description"
 
