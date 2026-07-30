@@ -13,9 +13,8 @@ All workshops are offered online and registration is free. The workshops are aim
 ## Upcoming workshops
 Other workshops may be added to the series over time - check back regularly to see! 
 
-### Introduction to the Alliance & ARC for HSS (English)
-9am PT|10am MT|12pm ET|2pm AT
-September 22nd, 2026
+### Introduction to the Alliance & ARC for HSS
+**September 22nd, 2026** at 9am PT|10am MT|12pm ET|2pm AT
 
 ??? "Workshop description"
 
@@ -27,7 +26,6 @@ September 22nd, 2026
 ### Introduction à l'Alliance & CIP pour SSH
 **September 24, 2026** at 9am PT|10am MT|12pm ET|2pm AT
 
-
 ??? "Workshop description"
 
     Duration: 1 hour
@@ -37,7 +35,6 @@ September 22nd, 2026
 
 ### Endings at the beginning
 **October 6, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
-
 
 ??? "Workshop description"
 
@@ -60,7 +57,6 @@ September 22nd, 2026
 ### Introduction to OpenRefine
 
 **November 19, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
-
 
 ??? "Workshop description"
 
@@ -95,6 +91,7 @@ September 22nd, 2026
     Duration:
     Language of instruction: English
 
+    Instructor: Marie Burle
 
 ### Using Python for natural language processing (NLP)
 
