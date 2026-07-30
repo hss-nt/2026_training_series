@@ -35,7 +35,7 @@ September 22nd, 2026
 
 ??? "Workshop description"
 
-    Duration: 1 hour
+    Duration: 1 hour and 30 minutes
     Language of instruction: English
 
     Instructor:
@@ -54,6 +54,7 @@ September 22nd, 2026
 ### Introduction to OpenRefine
 
 **November 19, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
+
 
 ??? "Workshop description"
 
@@ -78,6 +79,25 @@ September 22nd, 2026
 
     Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the Humanities and Social Sciences Specialist with the Digital Research Services team at the University of Alberta. She holds a PhD in Sociology awarded from the University of Toronto in 2024. Her research focuses on computational methods, political discourse, and gender. She is also the chair of the [National Humanities and Social Sciences Team](https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences) at the Digital Research Alliance of Canada. 
 
+
+### Introduction to Python
+
+**January 27, 2027** at 9am PT | 10am MT | 12pm ET | 2pm AT
+
+??? "Workshop description"
+
+    Duration:
+    Language of instruction: English
+
+
+### Using Python for natural language processing (NLP)
+
+**March 3, 2027** at 9am PT | 10am MT | 12pm ET | 2pm AT
+
+??? "Workshop description"
+
+    Duration:
+    Language of instruction: English
 
 ### How to deposit: Picking a data repository and preparing your data.
 
