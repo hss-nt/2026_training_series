@@ -38,3 +38,5 @@ nav:
 extra_css:
   - stylesheets/extra.css
 
+hide:
+  - navigation
