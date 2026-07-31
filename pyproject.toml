@@ -1,7 +1,7 @@
 [project]
-name = "intro-r-fall2025"
+name = "hss-nt-training"
 version = "0.1.0"
-description = "R Intro mkdocs-material site"
+description = "HSS National Team Training Site"
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
