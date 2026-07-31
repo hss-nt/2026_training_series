@@ -71,7 +71,7 @@ This session will introduce participants to OpenRefine, a powerful, free and ope
 
 Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the Humanities and Social Sciences Specialist with the Digital Research Services team at the University of Alberta. She holds a PhD in Sociology awarded from the University of Toronto in 2024. Her research focuses on computational methods, political discourse, and gender. She is also the chair of the [National Humanities and Social Sciences Team](https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences) at the Digital Research Alliance of Canada. 
 
-{ #r-en }
+[](){ #r-en }
 ### Introduction to R and RStudio
 
 - Date: **January 12, 2027** at 9am PT | 10am MT | 12pm ET | 2pm AT

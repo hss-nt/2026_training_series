@@ -26,4 +26,5 @@ jobs:
             mkdocs-material-
       - run: pip install mkdocs-material 
       - run: pip install "mkdocs-static-i18n[material]"
+      - run: pip install mkdocs-autorefs
       - run: mkdocs gh-deploy --force
