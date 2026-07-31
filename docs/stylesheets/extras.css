@@ -2,6 +2,12 @@
     display: none;
 }
 
-.md-typeset table {
-  font-size: 1.5rem; /* Default is usually around 0.8rem, adjust as needed */
+/* Optional: Target table headers separately */
+.md-typeset th {
+  font-size: 1.0rem;
+}
+
+/* Optional: Target table data rows separately */
+.md-typeset td {
+  font-size: 0.7rem;
 }
