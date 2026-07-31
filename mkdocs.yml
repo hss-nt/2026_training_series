@@ -1,5 +1,5 @@
 site_name: Humanities & Social Sciences National Team Training
-site_url: https://hss-nt.github.io/2026_training_series/
+site_url: https://hss-nt.github.io/2026_training_series/en/
 theme:
   name: material
   palette:
@@ -32,11 +32,18 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
       
 nav:
-  - 2026-27 Training Series: index.md
+  - 2026-27 Training Series: en/index.md
   
+extra: 
+  alternate:
+    - name:  English
+      link: /en/
+      lang: en
+    - name: Français
+      link: /fr/
+      lang: fr
+
+
 
 extra_css:
   - stylesheets/extra.css
-
-hide:
-  - navigation
