@@ -34,25 +34,19 @@ Language of instruction: English
 
 Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the Humanities and Social Sciences Specialist with the Digital Research Services team at the University of Alberta. She holds a PhD in Sociology awarded from the University of Toronto in 2024. She is also the chair of the national HSS team at the Digital Research Alliance of Canada.   
 
-<a href="#workshop1-fr"> Introduction à l'Alliance & CIP pour SSH </a>
-**September 24, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
+### <a href="#workshop1-fr"> Introduction à l'Alliance & CIP pour SSH </a>
+Date: **September 24, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
+Duration: 1 hour
+Language of instruction: French
 
-??? "Workshop description"
+Instructor:
 
-    Duration: 1 hour
-    Language of instruction: French
+### <a href="#workshop2-en"> Endings at the beginning </a>
+Date: **October 6, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
+Duration: 1 hour and 30 minutes
+Language of instruction: English
 
-    Instructor:
-
-<a href="#workshop2-en"> Endings at the beginning </a>
-**October 6, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
-
-??? "Workshop description"
-
-    Duration: 1 hour and 30 minutes
-    Language of instruction: English
-
-    Instructor:
+Instructor: Janelle Jensted
 
 <a href="#workshop3-en"> Introduction to the cloud for HSS </a>
 
