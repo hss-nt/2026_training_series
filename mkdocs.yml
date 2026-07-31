@@ -34,19 +34,30 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
       
   
-extra: 
-  alternate:
-    - name:  English
-      link: /training/
-      lang: en
-      nav:
-        - 2026-27 Training Series: index.md
-    - name: Français
-      link: /training/fr/
-      lang: fr
-      nav:
-        - Formation: fr/index.md 
+# extra: 
+#   alternate:
+#     - name:  English
+#       link: /training/
+#       lang: en
+#       nav:
+#         - 2026-27 Training Series: index.md
+#     - name: Français
+#       link: /training/fr/
+#       lang: fr
+#       nav:
+#         - Formation: fr/index.md 
 
+plugins:
+  - i18n:
+      docs_structure: folders
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: fr
+          name: Français
+          build: true
 
 
 extra_css:
