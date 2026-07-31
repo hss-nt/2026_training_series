@@ -13,7 +13,8 @@ All workshops are offered online and registration is free. The workshops are aim
 ## Upcoming workshops
 Other workshops may be added to the series over time - check back regularly to see! 
 
-|Workshop|Date|
+| Workshop | Date |
+|----------|------------|
 |[Introduction to the Alliance & ARC for HSS](#workshop1-en)|September 22, 2026|
 |[Introduction à l'Alliance & CIP pour SSH](#workshop1-fr)| September 24, 2026|
 |[Endings at the beginning](#workshop2-en)|October 6, 2026|
