@@ -49,18 +49,16 @@ Language of instruction: English
 
 Instructor: Janelle Jensted
 
-<a href="#workshop3-en"> Introduction to the cloud for HSS </a>
+### <a href="#workshop3-en"> Introduction to the cloud for HSS </a>
 
-**November 3, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
+- Date: **November 3, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
+- Duration: 1 hour
+- Language of instruction: English
 
-??? "Workshop description"
 
-    Duration: 1 hour
-    Language of instruction: English
+Instructor: Srivathsan Shanmuganathan is a cloud specialist with the Digital Research Services team at the University of Alberta. 
 
-    Instructor: Srivathsan Shanmuganathan
-
-<a href="#workshop1-en"> Introduction to OpenRefine </a>
+### <a href="#workshop4-en"> Introduction to OpenRefine </a>
 
 **November 19, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
 
