@@ -1,13 +1,14 @@
 ---
 hide:
   - toc
+  - nav
 ---
 
-The [National Humanities and Social Sciences Team](https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences) at the Digital Research Alliance of Canada provides training, research support, and advocacy for the Canadian humanities and social sciences research community. As part of this mission, we are launching a new training series beginning in September 2026. 
+[L'équipe nationale pour les sciences humaines et sociales](https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences/fr) de l'Alliance de recherche numérique du Canada soutient les chercheurs et les étudiants en sciences humaines et sociales. Dans le cadre de cette mission, nous lançons un nouveau cycle de formation à partir de septembre 2026.
 
-The workshops in this series are designed to take researchers and students in the humanities and social sciences through the different stages of the research process, introducing them to digital tools and research approaches relevant to each stage. The training series includes workshops on digital longevity, cloud computing, programming in R and python, data cleaning and analysis software, and data repositories. Most workshops are open to participants of all skill levels; where there are prerequisites, these will be listed in the workshop description. 
+Les ateliers de ce cycle sont conçus pour accompagner les chercheurs et les étudiants en sciences humaines et sociales à travers les différentes étapes du processus de recherche, en leur présentant les outils numériques et les approches méthodologiques adaptés à chaque phase. Le programme comprend des ateliers sur la pérennité des données numériques, l'informatique en nuage (cloud computing), la programmation en R et Python, les logiciels de nettoyage et d'analyse de données, ainsi que les entrepôts de données. La plupart des ateliers sont accessibles aux participants de tous niveaux ; lorsque des prérequis sont nécessaires, ils sont indiqués dans la description de l'atelier.
 
-All workshops are offered online and registration is free. The workshops are aimd at folks in the humanities and social scienes, but are open to anyone interested in attending. 
+Tous les ateliers sont proposés en ligne et l'inscription est gratuite. Bien qu'ils s'adressent en priorité aux personnes issues des sciences humaines et sociales, ces ateliers sont ouverts à toute personne intéressée.
 
 ## Upcoming workshops
 Other workshops may be added to the series over time - check back regularly to see! 

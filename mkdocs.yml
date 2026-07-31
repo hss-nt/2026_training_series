@@ -33,19 +33,6 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
       
-  
-# extra: 
-#   alternate:
-#     - name:  English
-#       link: /training/
-#       lang: en
-
-#     - name: Français
-#       link: /training/fr/
-#       lang: fr
-#       nav:
-#         - Formation: fr/index.md 
-
 nav:
   - 2026-27 Training Series: index.md
 
@@ -61,7 +48,7 @@ plugins:
           name: Français
           build: true
           nav_translations:
-            2026-27 Training Series: Formation, 2026-27
+            2026-27 Training Series: Séries de formation, 2026-27
 
 
 extra_css:
