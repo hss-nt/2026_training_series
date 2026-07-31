@@ -15,26 +15,26 @@ Other workshops may be added to the series over time - check back regularly to s
 
 |Workshop|Date|
 |[Introduction to the Alliance & ARC for HSS](#workshop1-en)|September 22, 2026|
-|Introduction à l'Alliance & CIP pour SSH | September 24, 2026|
-|Endings at the beginning|October 6, 2026|
-|Introduction to the cloud for HSS|November 3, 2026|
-|||
-|||
-|||
-|||
+|[Introduction à l'Alliance & CIP pour SSH](#workshop1-fr)| September 24, 2026|
+|[Endings at the beginning](#workshop2-en)|October 6, 2026|
+|[Introduction to the cloud for HSS](#workshop3-en)|November 3, 2026|
+|Introduction to OpenRefine|November 19, 2026|
+|Introduction to R and RStudio|January 12, 2027|
+|Using Python for natural language processing (NLP)|March 3, 2027|
+|How to deposit: Picking a data repository and preparing your data|March 17, 2027|
 
 ## Workshop descriptions
 
-<a href="#workshop1-en"> Introduction to the Alliance & ARC for HSS</a>
+### <a href="#workshop1-en"> Introduction to the Alliance & ARC for HSS</a>
 Date: **September 22nd, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
+
 Duration: 1 hour
+
 Language of instruction: English
 
+Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the Humanities and Social Sciences Specialist with the Digital Research Services team at the University of Alberta. She holds a PhD in Sociology awarded from the University of Toronto in 2024. She is also the chair of the national HSS team at the Digital Research Alliance of Canada.   
 
-
-Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the Humanities and Social Sciences Specialist with the Digital Research Services team at the University of Alberta. She holds a PhD in Sociology awarded from the University of Toronto in 2024. Her research focuses on computational methods, political discourse, and gender. She is also the chair of the [National Humanities and Social Sciences Team](https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences) at the Digital Research Alliance of Canada.   
-
-### Introduction à l'Alliance & CIP pour SSH
+<a href="#workshop1-fr"> Introduction à l'Alliance & CIP pour SSH </a>
 **September 24, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
 
 ??? "Workshop description"
@@ -44,7 +44,7 @@ Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the H
 
     Instructor:
 
-### Endings at the beginning
+<a href="#workshop2-en"> Endings at the beginning </a>
 **October 6, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
 
 ??? "Workshop description"
@@ -54,7 +54,7 @@ Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the H
 
     Instructor:
 
-### Introduction to the cloud for HSS
+<a href="#workshop3-en"> Introduction to the cloud for HSS </a>
 
 **November 3, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
 
@@ -65,7 +65,7 @@ Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the H
 
     Instructor: Srivathsan Shanmuganathan
 
-### Introduction to OpenRefine
+<a href="#workshop1-en"> Introduction to OpenRefine </a>
 
 **November 19, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
 
@@ -79,7 +79,7 @@ Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the H
     Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the Humanities and Social Sciences Specialist with the Digital Research Services team at the University of Alberta. She holds a PhD in Sociology awarded from the University of Toronto in 2024. Her research focuses on computational methods, political discourse, and gender. She is also the chair of the [National Humanities and Social Sciences Team](https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences) at the Digital Research Alliance of Canada. 
 
 
-### Introduction to R and RStudio
+<a href="#workshop1-en"> Introduction to R and RStudio </a>
 
 **January 12, 2027** at 9am PT | 10am MT | 12pm ET | 2pm AT
 
@@ -93,7 +93,7 @@ Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the H
     Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the Humanities and Social Sciences Specialist with the Digital Research Services team at the University of Alberta. She holds a PhD in Sociology awarded from the University of Toronto in 2024. Her research focuses on computational methods, political discourse, and gender. She is also the chair of the [National Humanities and Social Sciences Team](https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences) at the Digital Research Alliance of Canada. 
 
 
-### Introduction to Python
+<a href="#workshop1-en"> Introduction to Python
 
 **January 27, 2027** at 9am PT | 10am MT | 12pm ET | 2pm AT
 
@@ -104,7 +104,7 @@ Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the H
 
     Instructor: Marie Burle
 
-### Using Python for natural language processing (NLP)
+<a href="#workshop1-en"> Using Python for natural language processing (NLP)</a>
 
 **March 3, 2027** at 9am PT | 10am MT | 12pm ET | 2pm AT
 
@@ -113,7 +113,7 @@ Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the H
     Duration:
     Language of instruction: English
 
-### How to deposit: Picking a data repository and preparing your data.
+<a href="#workshop1-en"> How to deposit: Picking a data repository and preparing your data.</a>
 
 **March 16, 2027** at 9am PT | 10am MT | 12pm ET | 2pm AT
 
