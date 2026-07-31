@@ -8,20 +8,31 @@ The [National Humanities and Social Sciences Team](https://docs.alliancecan.ca/w
 
 The workshops in this series are designed to take researchers and students in the humanities and social sciences through the different stages of the research process, introducing them to digital tools and research approaches relevant to each stage. The training series includes workshops on digital longevity, cloud computing, programming in R and python, data cleaning and analysis software, and data repositories. Most workshops are open to participants of all skill levels; where there are prerequisites, these will be listed in the workshop description. 
 
-All workshops are offered online and registration is free. The workshops are aimd at folks in the humanities and social scienes, but are open to anyone interested in attending. 
+All workshops are offered online and registration is free. The workshops are aimed at folks in the humanities and social scienes, but are open to anyone interested in attending. 
 
 ## Upcoming workshops
 Other workshops may be added to the series over time - check back regularly to see! 
 
-### Introduction to the Alliance & ARC for HSS
-**September 22nd, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
+|Workshop|Date|
+|[Introduction to the Alliance & ARC for HSS](#workshop1-en)|September 22, 2026|
+|Introduction à l'Alliance & CIP pour SSH | September 24, 2026|
+|Endings at the beginning|October 6, 2026|
+|Introduction to the cloud for HSS|November 3, 2026|
+|||
+|||
+|||
+|||
 
-??? "Workshop description"
+## Workshop descriptions
 
-    Duration: 1 hour
-    Language of instruction: English
+<a href="#workshop1-en"> Introduction to the Alliance & ARC for HSS</a>
+Date: **September 22nd, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
+Duration: 1 hour
+Language of instruction: English
 
-    Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the Humanities and Social Sciences Specialist with the Digital Research Services team at the University of Alberta. She holds a PhD in Sociology awarded from the University of Toronto in 2024. Her research focuses on computational methods, political discourse, and gender. She is also the chair of the [National Humanities and Social Sciences Team](https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences) at the Digital Research Alliance of Canada.   
+
+
+Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the Humanities and Social Sciences Specialist with the Digital Research Services team at the University of Alberta. She holds a PhD in Sociology awarded from the University of Toronto in 2024. Her research focuses on computational methods, political discourse, and gender. She is also the chair of the [National Humanities and Social Sciences Team](https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences) at the Digital Research Alliance of Canada.   
 
 ### Introduction à l'Alliance & CIP pour SSH
 **September 24, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT

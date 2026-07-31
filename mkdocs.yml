@@ -2,6 +2,7 @@ site_name: Humanities & Social Sciences National Team Training
 site_url: https://hss-nt.github.io/training/en/
 theme:
   name: material
+  language: en
   palette:
     primary: blue
   features:
@@ -38,7 +39,7 @@ nav:
 extra: 
   alternate:
     - name:  English
-      link: /training/
+      link: /training/en/
       lang: en
     - name: Français
       link: /training/fr/
