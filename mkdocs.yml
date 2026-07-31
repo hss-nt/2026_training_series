@@ -39,7 +39,7 @@ nav:
 extra: 
   alternate:
     - name:  English
-      link: /training/
+      link: 
       lang: en
     - name: Français
       link: /training/fr/
