@@ -39,13 +39,15 @@ markdown_extensions:
 #     - name:  English
 #       link: /training/
 #       lang: en
-#       nav:
-#         - 2026-27 Training Series: index.md
+
 #     - name: Français
 #       link: /training/fr/
 #       lang: fr
 #       nav:
 #         - Formation: fr/index.md 
+
+nav:
+  - 2026-27 Training Series: index.md
 
 plugins:
   - i18n:
@@ -58,6 +60,8 @@ plugins:
         - locale: fr
           name: Français
           build: true
+          nav_translations:
+            - 2026-27 Training Series: Formation, 2026-27
 
 
 extra_css:
