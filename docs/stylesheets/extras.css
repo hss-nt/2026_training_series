@@ -1,3 +1,7 @@
 .md-header__title {
     display: none;
 }
+
+.md-typeset table {
+  font-size: 0.95rem; /* Default is usually around 0.8rem, adjust as needed */
+}
