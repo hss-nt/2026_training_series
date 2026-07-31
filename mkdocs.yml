@@ -61,7 +61,7 @@ plugins:
           name: Français
           build: true
           nav_translations:
-            - 2026-27 Training Series: Formation, 2026-27
+            2026-27 Training Series: Formation, 2026-27
 
 
 extra_css:
