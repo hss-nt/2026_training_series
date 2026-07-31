@@ -13,6 +13,10 @@ All workshops are offered online and registration is free. The workshops are aim
 ## Upcoming workshops
 Other workshops may be added to the series over time - check back regularly to see! 
 
+<style>
+table {
+  font-size: 18px; /* Adjust size here */
+}
 | Workshop | Date |
 |----------|------------|
 |[Introduction to the Alliance & ARC for HSS](#intro-en)|September 22, 2026|
@@ -25,6 +29,7 @@ Other workshops may be added to the series over time - check back regularly to s
 |[Introudction to Python](#python-en)|January 27, 2027|
 |[Using Python for natural language processing (NLP)](#nlp-en)|March 3, 2027|
 |[How to deposit: Picking a data repository and preparing your data](#rdm-en)|March 17, 2027|
+</style>
 
 ## Workshop descriptions
 
