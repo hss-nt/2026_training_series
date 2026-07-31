@@ -98,7 +98,7 @@ Instructor:
 
 Instructor:
 
-### <a href="rdm-en"> How to deposit: Picking a data repository and preparing your data.</a>
+### <a href="#rdm-en"> How to deposit: Picking a data repository and preparing your data.</a>
 
 - Date: **March 16, 2027** at 9am PT | 10am MT | 12pm ET | 2pm AT
 - Duration: 1 hour
