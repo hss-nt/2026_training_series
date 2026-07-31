@@ -51,7 +51,7 @@ nav:
 
 plugins:
   - i18n:
-      docs_structure: folders
+      docs_structure: folder
       languages:
         - locale: en
           default: true
