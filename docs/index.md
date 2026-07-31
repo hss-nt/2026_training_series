@@ -17,6 +17,7 @@ Other workshops may be added to the series over time - check back regularly to s
 table {
   font-size: 18px; /* Adjust size here */
 }
+</style>
 | Workshop | Date |
 |----------|------------|
 |[Introduction to the Alliance & ARC for HSS](#intro-en)|September 22, 2026|
@@ -29,7 +30,6 @@ table {
 |[Introudction to Python](#python-en)|January 27, 2027|
 |[Using Python for natural language processing (NLP)](#nlp-en)|March 3, 2027|
 |[How to deposit: Picking a data repository and preparing your data](#rdm-en)|March 17, 2027|
-</style>
 
 ## Workshop descriptions
 
