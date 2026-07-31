@@ -35,30 +35,15 @@ markdown_extensions:
       
 nav:
   - 2026-27 Training Series: index.md
-
-plugins:
-  - i18n:
-      default_language: en
-      languages:
-        en:
-          name: English
-          build: true
-        fr:
-          name: Français
-          build: true
-      # Optional: Translate the navigation sidebar titles
-      nav_translations:
-        fr:
-          2026-27 Training Series: Série de formations, 2026-27
   
-# extra: 
-#   alternate:
-#     - name:  English
-#       link: /training/
-#       lang: en
-#     - name: Français
-#       link: /training/fr/
-#       lang: fr
+extra: 
+  alternate:
+    - name:  English
+      link: /training/
+      lang: en
+    - name: Français
+      link: /training/fr/
+      lang: fr
 
 
 
