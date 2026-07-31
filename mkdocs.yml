@@ -37,6 +37,8 @@ nav:
   - 2026-27 Training Series: index.md
 
 plugins:
+  - autorefs
+  - search
   - i18n:
       docs_structure: folder
       languages:
