@@ -107,13 +107,17 @@ Formatrice ou formateur: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.
 [Retour au programme](#page-top)
 
 [](){ #python-en }
-### Introduction to Python
+### Getting started in Python: An introductory course to programming in Python using MoMA datasets as an example
 
 - Date: **27 janvier 2027** à 9h PT | 10h MT | 12h ET | 14h AT
 - Duration: 3 heures
 - Langue d'instruction: Anglais
 
-Formatrice ou formateur : 
+Python est l'un des langages de programmation les plus populaires depuis 20 ans. Aujourd'hui, il est un langage essentiel pour l'analyse de données dans de nombreux domaines, notamment en sciences sociales et humaines.
+
+Cet atelier d'initiation vous familiarisera avec les bases de la programmation en Python. Vous découvrirez les principales fonctionnalités du langage, telles que les variables et les types de données, les instructions conditionnelles, les listes, les boucles for/while, les compréhensions de listes et les dictionnaires. Vous apprendrez également à écrire vos propres fonctions et à manipuler et représenter graphiquement des données tabulaires. L'atelier vous offrira de nombreuses occasions de pratiquer ; au lieu d'aborder ces sujets de manière théorique et abstraite, nous travaillerons avec des jeux de données du MoMA et discuterons des concepts au fur et à mesure.
+
+Formatrice ou formateur : **Marie-Hélène Burle** est biologiste de l'évolution et du comportement, formatrice en Software/Data Carpentry et fervente défenseure des logiciels libres. Elle développe et dispense des formations en calcul haute performance et en apprentissage automatique aux chercheurs des universités canadiennes au nom de [l'Université Simon Fraser](https://www.rcg.sfu.ca/) et de [l'Alliance de recherche numérique du Canada](https://alliancecan.ca/).
 
 [Retour au programme](#page-top)
 
