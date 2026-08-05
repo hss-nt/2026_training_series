@@ -14,8 +14,8 @@ Tous les ateliers sont proposés en ligne et l'inscription est gratuite. Bien qu
 D'autres ateliers pourraient s'ajouter à la série au fil du temps ; n'hésitez pas à consulter régulièrement cette page !
 
 Cliquez sur le titre de l'atelier pour accéder à sa description.
-
 [](){ #page-top }
+
 | Stage | Date |
 |----------|------------|
 |[Introduction to the Alliance & ARC for HSS](#intro-en)|22 septembre 2026|
