@@ -42,9 +42,9 @@ Formatrice ou formateur: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.
 [](){ #intro-fr }
 ### Introduction à l'Alliance & CIP pour SHS
 
-- Date: **September 24, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
-- Duration: 1 hour
-- Language of instruction: French
+- Date: **Septembre 24, 2026** à 9h PT | 10h MT | 12h ET | 14h AT
+- Duration: 1 heure
+- Langue d'instruction: Français
 
 Formatrice ou formateur : TBD
 
@@ -66,10 +66,15 @@ Formatrice ou formateur : Janelle Jensted
 
 Formatrice ou formateur : Srivathsan Shanmuganathan is a cloud specialist with the Digital Research Services team at the University of Alberta. 
 
+[](){ #ocr-en }
+###
+
+
+
 [](){ #openrefine-en }
 ### Introduction to OpenRefine
 
-- Date: **November 19, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
+- Date: **Novembre 25, 2026**  9am PT | 10am MT | 12pm ET | 2pm AT
 - Duration: 2 hours
 - Language of instruction: English
 

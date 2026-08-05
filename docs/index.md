@@ -12,6 +12,7 @@ All workshops are offered online and registration is free. The workshops are aim
 
 ## Upcoming workshops
 Other workshops may be added to the series over time - check back regularly to see! 
+[](){ #page-top }
 
 | Workshop | Date |
 |----------|------------|
@@ -36,6 +37,8 @@ Other workshops may be added to the series over time - check back regularly to s
 - Language of instruction: English
 
 Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the Humanities and Social Sciences Specialist with the Digital Research Services team at the University of Alberta. She holds a PhD in Sociology awarded from the University of Toronto in 2024. She is also the chair of the national HSS team at the Digital Research Alliance of Canada.   
+
+[Back to the top](#page-top)
 
 [](){ #intro-fr }
 ### Introduction à l'Alliance & CIP pour SHS
@@ -64,10 +67,25 @@ Instructor: Janelle Jensted
 
 Instructor: Srivathsan Shanmuganathan is a cloud specialist with the Digital Research Services team at the University of Alberta. 
 
+[](){#ocr-en}
+### Ollama for OCR, transcription and data extraction
+
+- Date: **November 17, 2026** at 10am PT | 11am MT | 1pm ET | 3pm AT
+- Duration: 1 hour
+- Language of instruction: English
+
+This workshop will introduce the use of the Ollama application to extract text and structured data from images and sound recordings. It will cover installation and operation of Ollama, and will provide worked examples which can be explored in real time. Ollama provides a chat interface for familiar chat interactions, and also a network API which allows programmatic access to its service, using scripts in various programming languages (the examples will use Python). Ollama is free and open source, and can be installed on Windows, Mac and Linux machines. 
+
+It uses free downloadable LLMs which are useful for a variety of tasks such as OCR, speech transcription, or even deriving structured data such as CSV or JSON. With a good GPU and the use of Python scripts it is possible to automate these tasks to handle large sets of page images. The quality depends on the size of the model, which in turn depends on the hardware. The best results come when running on a machine with an NVIDIA GPU or a Mac with integrated memory; but even on a simpler system it can be used for private investigation of the capabilities of LLMs for various tasks.
+
+The workshop will demonstrate three tasks: OCR of a handwritten text, transcription of a voice recording, and extraction of CSV data from a structured printed document. The examples will use the desktop application and Python scripts. It will familiarize you with the basic methods of applying LLMs to these research problems. The processes can be transferred to paid online AI services, but for most research purposes, output from a local LLM running on a reasonably capable workstation will be of equal quality.
+
+Instructor: [Peter Binkley](https://profile.hcommons.org/members/pbinkley/) is a librarian with the U of A Library, where he offers workshops and consultations to support researchers with problems and methods of digital scholarship. He has worked in digitization, digital librarianship and digital preservation since the early years of this century. His academic background is in textual studies in the Latin Middle Ages, and he has a Ph.D. in Medieval Studies. His research is now mostly devoted to the 20th century history of pre-digital research technologies such as microfilm.
+
 [](){ #openrefine-en }
 ### Introduction to OpenRefine
 
-- Date: **November 19, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
+- Date: **November 24, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
 - Duration: 2 hours
 - Language of instruction: English
 
@@ -82,7 +100,9 @@ Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the H
 - Duration: 3 hours
 - Language of instruction: English
 
-Welcome to this workshop on R and R studio! In this session, participants will learn the basics of coding in R, and will become familiar with using RStudio. We will cover creating objects, importing and working with data, using the basic libraries, and performing simple operations. This session is suitable for beginners with no prior knowledge of R. There are no prerequisite coding skills. While the examples and data used will be aimed at the Humanities and Social Sciences community, the session is open to anyone and everyone interested in learning about R. You can view the materials [here](https://mariasfinnsdottir.ca/intro_r_fall2025/).
+Welcome to this workshop on R and R studio! In this session, participants will learn the basics of coding in R, and will become familiar with using RStudio. We will cover creating objects, importing and working with data, using the basic libraries, and performing simple operations. This session is suitable for beginners with no prior knowledge of R. There are no prerequisite coding skills. 
+
+While the examples and data used will be aimed at the Humanities and Social Sciences community, the session is open to anyone and everyone interested in learning about R. You can view the materials [here](https://mariasfinnsdottir.ca/intro_r_fall2025/).
 
 Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the Humanities and Social Sciences Specialist with the Digital Research Services team at the University of Alberta. She holds a PhD in Sociology awarded from the University of Toronto in 2024.  She is also the chair of the National Humanities and Social Sciences Team at the Digital Research Alliance of Canada. 
 
