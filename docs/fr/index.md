@@ -65,18 +65,32 @@ Formatrice ou formateur : Janelle Jensted
 [Retour au programme](#page-top)
 
 [](){ #cloud-en }
-### Introduction to the cloud for HSS
+### Introduction to cloud computing for HSS
 
 - Date: **3 november 2026** à 9h PT | 10h MT | 12h ET | 14h AT
-- Duration: 1 heure
+- Duration: 1 heure et 30 minutes
 - Langue d'instruction: Anglais
 
-Formatrice ou formateur : Srivathsan Shanmuganathan is a cloud specialist with the Digital Research Services team at the University of Alberta. 
+Cet atelier d'introduction explore comment l'informatique en nuage peut soutenir les projets de recherche. Les participants seront initiés aux principes fondamentaux de l'informatique en nuage et recevront les outils nécessaires pour déterminer quand cette technologie est plus appropriée que le calcul haute performance (HPC). L'atelier présentera les services en nuage offerts par l'Alliance de recherche numérique du Canada, notamment les plateformes disponibles, la procédure de création d'un projet en nuage, ainsi que les options de stockage et les types de projets proposés. Il abordera également des cas d'utilisation courants en recherche, des considérations pratiques pour la mise en route et se conclura par une démonstration pratique du lancement d'une machine virtuelle et de l'hébergement d'un site web simple.
+
+Formatrice ou formateur : Srivathsan Shanmuganathan est analyste en nuage au sein de l'équipe des Services de recherche numérique de l'Université de l'Alberta. Il accompagne les chercheurs dans l'identification et la conception de solutions d'informatique en nuage répondant à leurs besoins, notamment en les aidant à choisir les technologies appropriées et à développer des architectures en nuage sur des plateformes telles qu'OpenStack, Google Cloud Platform (GCP) et Amazon Web Services (AWS).
 
 [Retour au programme](#page-top)
 
 [](){ #ocr-en }
-###
+### Ollama for OCR, transcription and data extraction
+
+- Date: **17 novembre 2026** à 10h PT | 11h MT | 13h ET | 15h AT
+- Duration: 1 heure
+- Langue d'instruction: Anglais
+
+Cet atelier présentera l'utilisation de l'application Ollama pour extraire du texte et des données structurées à partir d'images et d'enregistrements sonores. Il abordera l'installation et le fonctionnement d'Ollama et proposera des exemples concrets pouvant être explorés en temps réel. Ollama offre une interface de discussion (chat) familière ainsi qu'une API réseau permettant un accès programmatique au service via des scripts dans divers langages (les exemples utiliseront Python). Ollama est un logiciel libre et gratuit, installable sur Windows, Mac et Linux.
+
+Il s'appuie sur des modèles de langage (LLM) gratuits et téléchargeables, utiles pour diverses tâches telles que la reconnaissance optique de caractères (OCR), la transcription vocale ou l'extraction de données structurées (formats CSV ou JSON). Avec un processeur graphique (GPU) performant et des scripts Python, il est possible d'automatiser ces tâches pour traiter de grands ensembles d'images de pages. La qualité des résultats dépend de la taille du modèle, elle-même conditionnée par le matériel utilisé. Les meilleurs résultats sont obtenus sur des machines équipées d'un GPU NVIDIA ou sur des Mac dotés d'une mémoire unifiée ; toutefois, même sur un système plus modeste, l'outil permet d'explorer les capacités des LLM pour diverses tâches.
+
+L'atelier présentera trois cas d'usage : l'OCR d'un texte manuscrit, la transcription d'un enregistrement vocal et l'extraction de données CSV à partir d'un document imprimé structuré. Les exemples s'appuieront à la fois sur l'application de bureau et sur des scripts Python. Vous vous familiariserez ainsi avec les méthodes fondamentales d'application des LLM à ces problématiques de recherche. Bien que ces processus puissent être transposés vers des services d'IA en ligne payants, les résultats obtenus avec un LLM local sur une station de travail aux performances correctes seront, pour la plupart des besoins de recherche, d'une qualité équivalente.
+
+Formatrice ou formateur : [Peter Binkley](https://profile.hcommons.org/members/pbinkley/) est bibliothécaire à l'Université de l'Alberta (U of A Library) ; il y anime des ateliers et propose des consultations pour accompagner les chercheurs dans les méthodes et enjeux des humanités numériques (digital scholarship). Il travaille dans les domaines de la numérisation, de la bibliothéconomie numérique et de la préservation numérique depuis le début des années 2000. Spécialiste des études textuelles sur le Moyen Âge latin, il est titulaire d'un doctorat en études médiévales. Ses recherches actuelles portent principalement sur l'histoire, au XXe siècle, des technologies de recherche pré-numériques telles que le microfilm.
 
 [Retour au programme](#page-top)
 

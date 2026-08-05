@@ -63,13 +63,15 @@ Instructor: Janelle Jensted
 [Back to the schedule](#page-top)
 
 [](){ #cloud-en }
-### Introduction to the cloud for HSS
+### Introduction to cloud computing for HSS
 
 - Date: **November 3, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
-- Duration: 1 hour
+- Duration: 1 hour and 30 minutes
 - Language of instruction: English
 
-Instructor: Srivathsan Shanmuganathan is a cloud specialist with the Digital Research Services team at the University of Alberta. 
+This introductory workshop explores how cloud computing can support research projects. Participants will be introduced to the fundamentals of cloud computing and be given the tools for determining  when cloud computing is the right choice over high-performance computing (HPC). The workshop will provide an overview of the cloud services offered by the Digital Research Alliance of Canada, including the available cloud sites, the process of getting a cloud project, and the storage options and types of cloud projects available. The workshop will also discuss common research use cases, practical considerations for getting started and conclude with a live demonstration of launching a cloud virtual machine and hosting a basic website.
+
+Instructor: Srivathsan Shanmuganathan is a Cloud Analyst with the Digital Research Services team at the University of Alberta. Srivathsan works with researchers to identify and design cloud computing solutions that support their research needs, including helping researchers choose appropriate cloud technologies and developing cloud architectures using platforms such as OpenStack, Google Cloud Platform (GCP) and Amazon Web Services (AWS).
 
 [Back to the schedule](#page-top)
 
