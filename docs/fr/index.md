@@ -38,6 +38,8 @@ Cliquez sur le titre de l'atelier pour accéder à sa description.
 - Duration : 1 heure
 - Langue d'instruction : Anglais
 
+Cet atelier présentera aux participants l’Alliance de recherche numérique du Canada (https://www.alliancecan.ca/en). L’Alliance soutient les chercheurs canadiens dans les domaines du calcul scientifique avancé, de la gestion des données de recherche et des logiciels de recherche. Elle offre également un accès à l’informatique en nuage et au calcul haute performance. Les participants seront guidés dans le processus d’accès à ces ressources et dans l’obtention de soutien lors de leur utilisation. Tout au long de l’atelier, ils découvriront l’utilité de l’ARC en sciences humaines et sociales.
+
 Formatrice ou formateur: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) est spécialiste de sciences humaines et sociales au sein de l'équipe des services de recherche numérique de l'Université de l'Alberta. Elle a obtenu un doctorat en sociologie à l'Université de Toronto en 2024. Elle préside également l'équipe nationale SHS de l'Alliance de recherche numérique du Canada. 
 
 [Retour au programme](#page-top)
@@ -48,6 +50,8 @@ Formatrice ou formateur: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.
 - Date: **24 septembre 2026** à 9h PT | 10h MT | 12h ET | 14h AT
 - Duration: 1 heure
 - Langue d'instruction: Français
+
+Cet atelier présentera aux participants l’Alliance de recherche numérique du Canada (https://www.alliancecan.ca/en). L’Alliance soutient les chercheurs canadiens dans les domaines du calcul scientifique avancé, de la gestion des données de recherche et des logiciels de recherche. Elle offre également un accès à l’informatique en nuage et au calcul haute performance. Les participants seront guidés dans le processus d’accès à ces ressources et dans l’obtention de soutien lors de leur utilisation. Tout au long de l’atelier, ils découvriront l’utilité de l’ARC en sciences humaines et sociales.
 
 Formatrice ou formateur : TBD
 

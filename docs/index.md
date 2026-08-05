@@ -36,6 +36,8 @@ Other workshops may be added to the series over time - check back regularly to s
 - Duration: 1 hour
 - Language of instruction: English
 
+This workshop will introduce participants to the [Digital Research Alliance of Canada](https://www.alliancecan.ca/en) (the Alliance). The Alliance supports Canadian researchers in the areas of advanced research computing, research data management and research software. The Alliance also provides access to cloud computing and high-performance computing. Participants will be guided through the process of acccessing these resources, and of getting support when using them. Throughout the workshop, participants will learn why and how ARC is useful in the humanities and social sciences. 
+
 Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the Humanities and Social Sciences Specialist with the Digital Research Services team at the University of Alberta. She holds a PhD in Sociology awarded from the University of Toronto in 2024. She is also the chair of the national HSS team at the Digital Research Alliance of Canada.   
 
 [Back to the schedule](#page-top)
