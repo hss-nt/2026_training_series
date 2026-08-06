@@ -22,6 +22,7 @@ Other workshops may be added to the series over time - check back regularly to s
 |[Introduction to the cloud for HSS](#cloud-en)|November 3, 2026|
 |[Ollama for OCR, transcription and data extraction](#ocr-en)|November 17, 2026|
 |[Introduction to OpenRefine](#openrefine-en)|November 24, 2026|
+|[Testing AI for Social Science and Humanities Research Using Chainforge](#ai-en)|December 3, 2026|
 |[Introduction to R and RStudio](#r-en)|January 12, 2027|
 |[Getting started in Python](#python-en)|January 27, 2027|
 |[Using Python for natural language processing (NLP)](#nlp-en)|March 3, 2027|
@@ -106,6 +107,19 @@ Instructor: [Peter Binkley](https://profile.hcommons.org/members/pbinkley/) is a
 This session will introduce participants to OpenRefine, a powerful, free and open source tool to work with large datasets. We will quickly work through how to use OpenRefine to effectively clean and format tabular data while automatically tracking any changes. This session is suitable for beginners with no prior knowledge of OpenRefine. There are no prerequisite coding skills. While the examples and data used will be aimed at the Humanities and Social Sciences community, the session is open to anyone and everyone interested in learning about OpenRefine. View the workshop materials [here](https://mariasfinnsdottir.ca/openrefine_fall2025/). 
 
 Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the Humanities and Social Sciences Specialist with the Digital Research Services team at the University of Alberta. She holds a PhD in Sociology awarded from the University of Toronto in 2024.  She is also the chair of the National Humanities and Social Sciences Team at the Digital Research Alliance of Canada. 
+
+[Back to the schedule](#page-top)
+
+[](){ #ai-en }
+### Testing AI for Social Science and Humanities Research Using Chainforge
+
+- Date: **December 3, 2026*** at 9am PT | 10am MT | 12pm ET | 2pm AT
+- Duration: 2 hours
+- Language of instruction: English
+
+If you want to use Large Language Models for research you will want to test different combinations of evidence, prompts, and models. Chainforge is a free in-browser visual programming environment that lets you lay out flows that try variations of evidence, prompts, and models. In this workshop we will show you how to use Chainforge to create flows that fit your research needs. We will also survey some common models for flows in the Social Science and Humanities.
+
+Instructor: **Dr. Geoffrey Martin Rockwell** is a Professor of Philosophy and Digital Humanities at the University of Alberta. He holds a Canada CIFAR AI Chair and is a Fellow at the Alberta Machine Intelligence Institute. He has a Ph.D. in Philosophy from the University of Toronto and has published on subjects such as artificial intelligence and ethics, philosophical dialogue, textual visualization and analysis, digital humanities, instructional technology, computer games and multimedia. His books include Defining Dialogue: From Socrates to the Internet (Humanity Books, 2003) and Hermeneutica, co-authored with Stéfan Sinclair (MIT Press, 2016). Hermeneutica is part of a hybrid text and tool project with Voyant Tools (voyant-tools.org), an award-winning suite of analytical tools. He recently co-edited Right Research: Modelling Sustainable Research Practices in the Anthropocene (Open Book Publishers, 2021) and On Making in the Digital Humanities (UCL Press, 2023).
 
 [Back to the schedule](#page-top)
 

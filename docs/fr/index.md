@@ -24,6 +24,7 @@ Cliquez sur le titre de l'atelier pour accéder à sa description.
 |[Introduction to the cloud for HSS](#cloud-en)|3 novembre 2026|
 |[Ollama for OCR, transcription and data extraction](#ocr-en)|17 novembre 2026|
 |[Introduction to OpenRefine](#openrefine-en)|24 novembre 2026|
+|[Testing AI for Social Science and Humanities Research Using Chainforge](#ai-en)|3 decembre 2026|
 |[Introduction to R and RStudio](#r-en)|12 janvier 2027|
 |[Getting started in Python](#python-en)|27 janvier 2027|
 |[Using Python for natural language processing (NLP)](#nlp-en)|3 mars 2027|
@@ -108,6 +109,19 @@ Formatrice ou formateur : [Peter Binkley](https://profile.hcommons.org/members/p
 Cette session initiera les participants à OpenRefine, un outil puissant, gratuit et libre de droits permettant de travailler avec de grands ensembles de données. Nous verrons rapidement comment utiliser OpenRefine pour nettoyer et formater efficacement des données tabulaires tout en suivant automatiquement les modifications. Cette session est idéale pour les débutants n'ayant aucune connaissance préalable d'OpenRefine. Aucune compétence en programmation n'est requise. Bien que les exemples et les données utilisés soient destinés à la communauté des sciences humaines et sociales, la session est ouverte à toute personne souhaitant découvrir OpenRefine. Consultez le matériel de l'atelier [ici](https://mariasfinnsdottir.ca/openrefine_fall2025/).
 
 Formatrice ou formateur: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) est spécialiste de sciences humaines et sociales au sein de l'équipe des services de recherche numérique de l'Université de l'Alberta. Elle a obtenu un doctorat en sociologie à l'Université de Toronto en 2024. Elle préside également l'équipe nationale SHS de l'Alliance de recherche numérique du Canada. 
+
+[Retour au programme](#page-top)
+
+[](){ #ai-en }
+### Testing AI for Social Science and Humanities Research Using Chainforge
+
+- Date: **3 decembre 2026** à 9h PT | 10h MT | 12h ET | 14h AT
+- Duration: 2 heures
+- Langue d'instruction: Anglais
+
+Si vous souhaitez utiliser des grands modèles de langage (LLM) dans le cadre de vos recherches, vous aurez probablement envie de tester différentes combinaisons de données probantes, de *prompts* (invites) et de modèles. Chainforge est un environnement de programmation visuelle gratuit, accessible directement dans le navigateur, qui permet de concevoir des flux de travail pour tester des variantes de ces éléments. Lors de cet atelier, nous vous montrerons comment utiliser Chainforge pour créer des flux adaptés à vos besoins de recherche. Nous passerons également en revue certains modèles de flux courants dans les domaines des sciences humaines et sociales.
+
+Formatrice ou formateur: **Dr Geoffrey Martin Rockwell** est professeur de philosophie et d'humanités numériques à l'Université de l'Alberta. Titulaire d'une chaire en IA Canada-CIFAR, il est également membre de l'Alberta Machine Intelligence Institute. Docteur en philosophie de l'Université de Toronto, il a publié des travaux sur des sujets tels que l'intelligence artificielle et l'éthique, le dialogue philosophique, la visualisation et l'analyse textuelles, les humanités numériques, les technologies éducatives, ainsi que les jeux vidéo et le multimédia. Parmi ses ouvrages, citons *Defining Dialogue: From Socrates to the Internet* (Humanity Books, 2003) et *Hermeneutica*, coécrit avec Stéfan Sinclair (MIT Press, 2016). *Hermeneutica* s'inscrit dans un projet hybride associant texte et outil, en lien avec Voyant Tools (voyant-tools.org), une suite d'outils d'analyse primée. Il a récemment codirigé les ouvrages *Right Research: Modelling Sustainable Research Practices in the Anthropocene* (Open Book Publishers, 2021) et *On Making in the Digital Humanities* (UCL Press, 2023).
 
 [Retour au programme](#page-top)
 
