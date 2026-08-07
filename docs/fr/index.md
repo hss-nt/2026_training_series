@@ -162,7 +162,7 @@ Formatrice ou formateur : **Marie-Hélène Burle** est biologiste de l'évolutio
 - Duration: 3 heures
 - Langue d'instruction: Anglais
 
-Formatrice ou formateur :
+Formatrice ou formateur : **Marie-Hélène Burle** est biologiste de l'évolution et du comportement, formatrice en Software/Data Carpentry et fervente défenseure des logiciels libres. Elle développe et dispense des formations en calcul haute performance et en apprentissage automatique aux chercheurs des universités canadiennes au nom de [l'Université Simon Fraser](https://www.rcg.sfu.ca/) et de [l'Alliance de recherche numérique du Canada](https://alliancecan.ca/).
 
 [Retour au programme](#page-top)
 
