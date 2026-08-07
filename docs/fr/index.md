@@ -59,13 +59,15 @@ Formatrice ou formateur : TBD
 [Retour au programme](#page-top)
 
 [](){ #endings-en }
-### Endings at the beginning
+### ### The End is Where We Start From: Planning your Endings-Compliant Digital Project
 
 - Date: **6 octobre 2026** à 9h PT | 10h MT | 12h ET | 14h AT
 - Duration: 1 heure et 30 minutes
 - Langue d'instruction: Anglais
 
-Formatrice ou formateur : Janelle Jensted
+Pour donner à nos projets les meilleures chances de perdurer, nous devons envisager leur pérennité et leur préservation dès leur conception initiale. Cet atelier présente les principes établis par le projet « Endings » pour lancer, publier et archiver un projet numérique tout en respectant les normes de ce projet.
+
+Formatrice ou formateur : **Janelle Jenstad** (PhD, FRSC) est professeure d'anglais et directrice académique du *Humanities Computing and Media Centre* à l'Université de Victoria. Membre fondatrice du projet [Endings](endings.uvic.ca), elle dirige les projets *The Map of Early Modern London* (MoEML) et *Linked Early Modern Drama Online* (LEMDO). Elle a codirigé, avec Jennifer Roberts-Smith et MB Kaethler, l'ouvrage *Shakespeare’s Language in Digital Media* (Routledge). Ses articles et chapitres d'ouvrages ont été publiés dans des revues et publications telles que *Shakespeare Bulletin*, *Elizabethan Theatre*, *EMLS*, *JMEMS*, *DHQ*, *Digital Studies* et *Scholarly Editing*.
 
 [Retour au programme](#page-top)
 
@@ -102,7 +104,7 @@ Formatrice ou formateur : [Peter Binkley](https://profile.hcommons.org/members/p
 [](){ #openrefine-en }
 ### Introduction to OpenRefine
 
-- Date: **26 novembre 2026** à 9h PT | 10h MT | 12h ET | 14h AT
+- Date: **24 novembre 2026** à 9h PT | 10h MT | 12h ET | 14h AT
 - Duration: 2 heures
 - Langue d'instruction: Anglais
 

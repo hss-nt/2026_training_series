@@ -18,7 +18,7 @@ Other workshops may be added to the series over time - check back regularly to s
 |----------|------------|
 |[Introduction to the Alliance & ARC for HSS](#intro-en)|September 22, 2026|
 |[Introduction à l'Alliance & CIP pour SHS](#intro-fr)| September 24, 2026|
-|[Endings at the beginning](#endings-en)|October 6, 2026|
+|[Planning your Endings-Compliant Digital Project](#endings-en)|October 6, 2026|
 |[Introduction to the cloud for HSS](#cloud-en)|November 3, 2026|
 |[Ollama for OCR, transcription and data extraction](#ocr-en)|November 17, 2026|
 |[Introduction to OpenRefine](#openrefine-en)|November 24, 2026|
@@ -57,13 +57,15 @@ Instructors: TBD
 [Back to the schedule](#page-top)
 
 [](){ #endings-en }
-### Endings at the beginning
+### The End is Where We Start From: Planning your Endings-Compliant Digital Project
 
 - Date: **October 6, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
 - Duration: 1 hour and 30 minutes
 - Language of instruction: English
 
-Instructor: Janelle Jensted
+To give our projects the best shot at surviving long-term, we need to think about long-term sustainability and preservation from the very beginning of our digital projects. This workshop covers the principles established by the Endings Projects for beginning, releasing, and archiving your digital project in Endings-compliant ways.
+
+Instructor: **Janelle Jenstad**, PhD FRSC, is Professor of English and Academic Director of the Humanities Computing and Media Centre at the University of Victoria. She is a founding member of the [Endings Project](endings.uvic.ca), and directs The Map of Early Modern London (MoEML) and Linked Early Modern Drama Online (LEMDO). With Jennifer Roberts-Smith and MB Kaethler, she co-edited Shakespeare’s Language in Digital Media (Routledge). Her essays and book chapters have appeared in Shakespeare Bulletin, Elizabethan Theatre, EMLS, JMEMS, DHQ, Digital Studies, Scholarly Editing, and other venues.
 
 [Back to the schedule](#page-top)
 
@@ -147,7 +149,7 @@ Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the H
 
 Python has been one of the most popular programming languages for the past 20 years. Today it is a key language for data analysis in a huge number of fields, including many in the social sciences and humanities. 
 
-This introductory workshop will walk you through the basics of programming in Python. You will be introduced to the main language features of Python, including: variables and data types, conditionals, lists, for/while loops, list comprehensions, and dictionaries. You will also learn how to write your own functions, and how to work with and plot tabular data. The worskhop will give you lots of opportunities for hands-on practice; instead of covering these topics in a dry and abstract fashion, we will play with datasets from the Museum of Modern Art and discuss concepts as we go.
+This introductory workshop will walk you through the basics of programming in Python. You will be introduced to the main language features of Python, including: variables and data types, conditionals, lists, for/while loops, list comprehensions, and dictionaries. You will also learn how to write your own functions, and how to work with and plot tabular data. The workshop will give you lots of opportunities for hands-on practice; instead of covering these topics in a dry and abstract fashion, we will play with datasets from the Museum of Modern Art and discuss concepts as we go.
 
 Instructor: **Marie-Hélène Burle** is an evolutionary and behavioural biologist by training, a Software/Data Carpentry instructor, and an open source advocate. She develops and delivers high-performance computing and machine learning training for researchers at Canadian universities on behalf of [Simon Fraser University](https://www.rcg.sfu.ca/) and the [Digital Research Alliance of Canada](https://alliancecan.ca/).
 
