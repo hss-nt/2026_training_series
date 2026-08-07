@@ -39,7 +39,7 @@ nav:
 plugins:
   - autorefs
   - search
-  - privacy
+  - privacy:
       links_attr_map:
         target: _blank
   - i18n:
