@@ -59,7 +59,7 @@ Formatrice ou formateur : TBD
 [Retour au programme](#page-top)
 
 [](){ #endings-en }
-### ### The End is Where We Start From: Planning your Endings-Compliant Digital Project
+### The End is Where We Start From: Planning your Endings-Compliant Digital Project
 
 - Date: **6 octobre 2026** à 9h PT | 10h MT | 12h ET | 14h AT
 - Duration: 1 heure et 30 minutes
