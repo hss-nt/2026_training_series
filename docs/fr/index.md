@@ -4,7 +4,7 @@ hide:
   - nav
 ---
 
-[L'équipe nationale pour les sciences humaines et sociales](https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences/fr) de l'Alliance de recherche numérique du Canada soutient les chercheur·ses et les étudiant·es en sciences humaines et sociales. Dans le cadre de ce mandat, nous lançons une nouvelle série d'ateliers de formation à partir de septembre 2026.
+[L'équipe nationale pour les sciences humaines et sociales](https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences/fr){:target"=_blank"} de l'Alliance de recherche numérique du Canada soutient les chercheur·ses et les étudiant·es en sciences humaines et sociales. Dans le cadre de ce mandat, nous lançons une nouvelle série d'ateliers de formation à partir de septembre 2026.
 
 Les ateliers de cette série sont conçus pour accompagner les chercheur·ses et les étudiant·es en sciences humaines et sociales à travers les différentes étapes du processus de recherche, en leur présentant les outils numériques et les approches méthodologiques adaptés à chaque phase. Le programme comprend des ateliers sur la pérennité des données numériques, l'informatique en nuage (cloud computing), la programmation en R et Python, les logiciels de nettoyage et d'analyse de données, ainsi que les dépôts de données. La plupart des ateliers sont accessibles aux participant·es de tous niveaux ; lorsque des prérequis sont nécessaires, ils sont indiqués dans la description de l'atelier.
 
