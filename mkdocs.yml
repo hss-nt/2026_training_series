@@ -39,6 +39,7 @@ nav:
 plugins:
   - autorefs
   - search
+  - privacy
   - i18n:
       docs_structure: folder
       languages:
