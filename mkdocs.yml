@@ -40,6 +40,8 @@ plugins:
   - autorefs
   - search
   - privacy
+    links_attr_map:
+        target: _blank
   - i18n:
       docs_structure: folder
       languages:
