@@ -44,7 +44,7 @@ Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the H
 [Back to the schedule](#page-top)
 
 [](){ #intro-fr }
-### Introduction à l'Alliance & CIP pour SHS
+### Introduction à l'Alliance & CIP pour les SHS
 
 - Date: **September 24, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
 - Duration: 1 hour
