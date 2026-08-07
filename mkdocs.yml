@@ -10,6 +10,9 @@ theme:
   - navigation.top
   - content.code.copy
 
+hide:
+  - nav
+
 markdown_extensions:
   - def_list
   - tables
