@@ -1,8 +1,11 @@
 ---
 hide:
   - toc
-  - nav
+  - navigation
+  - path
 ---
+
+# ![Logo](./content/Alliance_logo.png){ style="height: 1.2em; vertical-align: middle; margin-right: 0.3em;" } Équipe nationale pour les SHS : Séries d'atéliers de formation, 2026-27
 
 [L'équipe nationale pour les sciences humaines et sociales](https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences/fr){:target"=_blank"} de l'Alliance de recherche numérique du Canada soutient les chercheur·ses et les étudiant·es en sciences humaines et sociales. Dans le cadre de ce mandat, nous lançons une nouvelle série d'ateliers de formation à partir de septembre 2026.
 

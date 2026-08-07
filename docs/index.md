@@ -5,7 +5,7 @@ hide:
   - path
 ---
 
-# ## ![Logo](./content/Alliance_logo.png){ style="height: 1.2em; vertical-align: middle; margin-right: 0.3em;" } National HSS Team: 2026-27 Training Series
+# ![Logo](./content/Alliance_logo.png){ style="height: 1.2em; vertical-align: middle; margin-right: 0.3em;" } National HSS Team: 2026-27 Training Series
 
 The [National Humanities and Social Sciences Team](https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences) at the Digital Research Alliance of Canada supports and advocates for the Canadian humanities and social sciences research community. As part of this mission, we are launching a new training series beginning in September 2026. 
 
