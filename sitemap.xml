@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://hss-nt.github.io/training/</loc>
+        <lastmod>2026-08-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://hss-nt.github.io/training/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://hss-nt.github.io/training/fr/"/>
+    </url>
+    <url>
+        <loc>https://hss-nt.github.io/training/fr/</loc>
+        <lastmod>2026-08-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://hss-nt.github.io/training/fr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://hss-nt.github.io/training/"/>
+    </url>
+</urlset>

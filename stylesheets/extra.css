@@ -1,0 +1,26 @@
+.md-header__title {
+    display: none;
+}
+
+/* Optional: Target table headers separately */
+.md-typeset th {
+  font-size: 1.0rem;
+}
+
+/* Optional: Target table data rows separately */
+.md-typeset td {
+  font-size: 0.9rem;
+}
+
+/* Remove all lines and borders from tables */
+article table, 
+article th, 
+article td {
+  border: none !important;
+}
+
+/* Optional: remove bottom border from header row if present */
+article tr {
+  border-top: none !important;
+  border-bottom: none !important;
+}
