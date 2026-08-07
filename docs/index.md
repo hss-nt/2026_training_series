@@ -17,7 +17,7 @@ Other workshops may be added to the series over time - check back regularly to s
 | Workshop | Date |
 |----------|------------|
 |[Introduction to the Alliance & ARC for HSS](#intro-en)|September 22, 2026|
-|[Introduction à l'Alliance & CIP pour SHS](#intro-fr)| September 24, 2026|
+|[Introduction à l'Alliance & CIP pour les SHS](#intro-fr)| September 24, 2026|
 |[Planning your Endings-Compliant Digital Project](#endings-en)|October 6, 2026|
 |[Introduction to the cloud for HSS](#cloud-en)|November 3, 2026|
 |[Ollama for OCR, transcription and data extraction](#ocr-en)|November 17, 2026|
@@ -44,7 +44,7 @@ Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the H
 [Back to the schedule](#page-top)
 
 [](){ #intro-fr }
-### Introduction à l'Alliance & CIP pour SHS
+### Introduction à l'Alliance & CIP pour les SHS
 
 - Date: **September 24, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
 - Duration: 1 hour
@@ -167,7 +167,7 @@ Instructor: **Marie-Hélène Burle** is an evolutionary and behavioural biologis
 [Back to the schedule](#page-top)
 
 [](){ #rdm-en }
-### How to deposit: Picking a data repository and preparing your data.
+### How to deposit: Picking a data repository and preparing your data
 
 - Date: **March 16, 2027** at 9am PT | 10am MT | 12pm ET | 2pm AT
 - Duration: 1 hour
