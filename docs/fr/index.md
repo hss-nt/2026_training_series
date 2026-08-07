@@ -4,9 +4,9 @@ hide:
   - nav
 ---
 
-[L'équipe nationale pour les sciences humaines et sociales](https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences/fr) de l'Alliance de recherche numérique du Canada soutient les chercheurs et les étudiants en sciences humaines et sociales. Dans le cadre de cette mission, nous lançons un nouveau cycle de formation à partir de septembre 2026.
+[L'équipe nationale pour les sciences humaines et sociales](https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences/fr) de l'Alliance de recherche numérique du Canada soutient les chercheur·ses et les étudiant·es en sciences humaines et sociales. Dans le cadre de ce mandat, nous lançons une nouvelle série d'ateliers de formation à partir de septembre 2026.
 
-Les ateliers de ce cycle sont conçus pour accompagner les chercheurs et les étudiants en sciences humaines et sociales à travers les différentes étapes du processus de recherche, en leur présentant les outils numériques et les approches méthodologiques adaptés à chaque phase. Le programme comprend des ateliers sur la pérennité des données numériques, l'informatique en nuage (cloud computing), la programmation en R et Python, les logiciels de nettoyage et d'analyse de données, ainsi que les entrepôts de données. La plupart des ateliers sont accessibles aux participants de tous niveaux ; lorsque des prérequis sont nécessaires, ils sont indiqués dans la description de l'atelier.
+Les ateliers de cette série sont conçus pour accompagner les chercheur·ses et les étudiant·es en sciences humaines et sociales à travers les différentes étapes du processus de recherche, en leur présentant les outils numériques et les approches méthodologiques adaptés à chaque phase. Le programme comprend des ateliers sur la pérennité des données numériques, l'informatique en nuage (cloud computing), la programmation en R et Python, les logiciels de nettoyage et d'analyse de données, ainsi que les dépôts de données. La plupart des ateliers sont accessibles aux participant·es de tous niveaux ; lorsque des prérequis sont nécessaires, ils sont indiqués dans la description de l'atelier.
 
 Tous les ateliers sont proposés en ligne et l'inscription est gratuite. Bien qu'ils s'adressent en priorité aux personnes issues des sciences humaines et sociales, ces ateliers sont ouverts à toute personne intéressée.
 
@@ -19,7 +19,7 @@ Cliquez sur le titre de l'atelier pour accéder à sa description.
 | Stage | Date |
 |----------|------------|
 |[Introduction to the Alliance & ARC for HSS](#intro-en)|22 septembre 2026|
-|[Introduction à l'Alliance & CIP pour SHS](#intro-fr)| 24 septembre 2026|
+|[Introduction à l'Alliance & CIP pour les SHS](#intro-fr)| 24 septembre 2026|
 |[Planning your Endings-Compliant Digital Project](#endings-en)|6 octobre 2026|
 |[Introduction to the cloud for HSS](#cloud-en)|3 novembre 2026|
 |[Ollama for OCR, transcription and data extraction](#ocr-en)|17 novembre 2026|
@@ -39,22 +39,22 @@ Cliquez sur le titre de l'atelier pour accéder à sa description.
 - Duration : 1 heure
 - Langue d'instruction : Anglais
 
-Cet atelier présentera aux participants l’Alliance de recherche numérique du Canada (https://www.alliancecan.ca/en). L’Alliance soutient les chercheurs canadiens dans les domaines du calcul scientifique avancé, de la gestion des données de recherche et des logiciels de recherche. Elle offre également un accès à l’informatique en nuage et au calcul haute performance. Les participants seront guidés dans le processus d’accès à ces ressources et dans l’obtention de soutien lors de leur utilisation. Tout au long de l’atelier, ils découvriront l’utilité de l’ARC en sciences humaines et sociales.
+Cet atelier présentera aux participant·es l’[Alliance de recherche numérique du Canada](https://www.alliancecan.ca/en). L’Alliance soutient la communauté de recherche canadienne dans les domaines du calcul informatique de pointe (CIP), de la gestion des données de recherche et des logiciels de recherche. Elle offre également un accès à des infrastructures de calcul haute performance et des environnements infonuagiques. Les personnes participantes seront guidées dans le processus d’accès à ces ressources et dans l’obtention de soutien lors de leur utilisation. Tout au long de l’atelier, ils et elles découvriront l’utilité du CIP en sciences humaines et sociales.
 
-Formatrice ou formateur: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) est spécialiste de sciences humaines et sociales au sein de l'équipe des services de recherche numérique de l'Université de l'Alberta. Elle a obtenu un doctorat en sociologie à l'Université de Toronto en 2024. Elle préside également l'équipe nationale SHS de l'Alliance de recherche numérique du Canada. 
+Formatrice ou formateur: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) est spécialiste des sciences humaines et sociales au sein de l'équipe des services de recherche numérique de l'Université de l'Alberta. Elle a obtenu un doctorat en sociologie à l'Université de Toronto en 2024. Elle préside également l'équipe nationale SHS de l'Alliance de recherche numérique du Canada. 
 
 [Retour au programme](#page-top)
 
 [](){ #intro-fr }
-### Introduction à l'Alliance & CIP pour SHS
+### Introduction à l'Alliance & CIP pour les SHS
 
 - Date: **24 septembre 2026** à 9h PT | 10h MT | 12h ET | 14h AT
 - Duration: 1 heure
 - Langue d'instruction: Français
 
-Cet atelier présentera aux participants l’Alliance de recherche numérique du Canada (https://www.alliancecan.ca/en). L’Alliance soutient les chercheurs canadiens dans les domaines du calcul scientifique avancé, de la gestion des données de recherche et des logiciels de recherche. Elle offre également un accès à l’informatique en nuage et au calcul haute performance. Les participants seront guidés dans le processus d’accès à ces ressources et dans l’obtention de soutien lors de leur utilisation. Tout au long de l’atelier, ils découvriront l’utilité de l’ARC en sciences humaines et sociales.
+Cet atelier présentera aux participant·es l’[Alliance de recherche numérique du Canada](https://www.alliancecan.ca/en). L’Alliance soutient la communauté de recherche canadienne dans les domaines du calcul informatique de pointe (CIP), de la gestion des données de recherche et des logiciels de recherche. Elle offre également un accès à des infrastructures de calcul haute performance et des environnements infonuagiques. Les personnes participantes seront guidées dans le processus d’accès à ces ressources et dans l’obtention de soutien lors de leur utilisation. Tout au long de l’atelier, ils et elles découvriront l’utilité du CIP en sciences humaines et sociales.
 
-Formatrice ou formateur : TBD
+Formatrice ou formateur : À déterminer
 
 [Retour au programme](#page-top)
 
@@ -78,9 +78,9 @@ Formatrice ou formateur : **Janelle Jenstad** (PhD, FRSC) est professeure d'angl
 - Duration: 1 heure et 30 minutes
 - Langue d'instruction: Anglais
 
-Cet atelier d'introduction explore comment l'informatique en nuage peut soutenir les projets de recherche. Les participants seront initiés aux principes fondamentaux de l'informatique en nuage et recevront les outils nécessaires pour déterminer quand cette technologie est plus appropriée que le calcul haute performance (HPC). L'atelier présentera les services en nuage offerts par l'Alliance de recherche numérique du Canada, notamment les plateformes disponibles, la procédure de création d'un projet en nuage, ainsi que les options de stockage et les types de projets proposés. Il abordera également des cas d'utilisation courants en recherche, des considérations pratiques pour la mise en route et se conclura par une démonstration pratique du lancement d'une machine virtuelle et de l'hébergement d'un site web simple.
+Cet atelier d'initiation explore comment l'informatique en nuage peut soutenir les projets de recherche. Les personnes participantes seront initiées aux principes fondamentaux de l'informatique en nuage et recevront les outils nécessaires pour déterminer quand cette approche est plus appropriée que le calcul haute performance (CHP). L'atelier présentera les services en nuage offerts par l'Alliance de recherche numérique du Canada, notamment les plateformes disponibles, la procédure de création d'un projet infonuagique, ainsi que les options de stockage et les types de projets proposés. Il abordera également des cas d'utilisation courants en recherche, des considérations pratiques pour la mise en route et se conclura par une démonstration pratique du lancement d'une machine virtuelle et de l'hébergement d'un site web simple.
 
-Formatrice ou formateur : **Srivathsan Shanmuganathan** est analyste en nuage au sein de l'équipe des Services de recherche numérique de l'Université de l'Alberta. Il accompagne les chercheurs dans l'identification et la conception de solutions d'informatique en nuage répondant à leurs besoins, notamment en les aidant à choisir les technologies appropriées et à développer des architectures en nuage sur des plateformes telles qu'OpenStack, Google Cloud Platform (GCP) et Amazon Web Services (AWS).
+Formatrice ou formateur : **Srivathsan Shanmuganathan** est analyste infonuagique au sein de l'équipe des Services de recherche numérique de l'Université de l'Alberta. Il accompagne les chercheur·ses dans l'identification et la conception de solutions d'informatique en nuage répondant à leurs besoins, notamment en les aidant à choisir les technologies appropriées et à développer des architectures en nuage sur des plateformes telles qu'OpenStack, Google Cloud Platform (GCP) et Amazon Web Services (AWS).
 
 [Retour au programme](#page-top)
 
@@ -91,13 +91,13 @@ Formatrice ou formateur : **Srivathsan Shanmuganathan** est analyste en nuage au
 - Duration: 1 heure
 - Langue d'instruction: Anglais
 
-Cet atelier présentera l'utilisation de l'application Ollama pour extraire du texte et des données structurées à partir d'images et d'enregistrements sonores. Il abordera l'installation et le fonctionnement d'Ollama et proposera des exemples concrets pouvant être explorés en temps réel. Ollama offre une interface de discussion (chat) familière ainsi qu'une API réseau permettant un accès programmatique au service via des scripts dans divers langages (les exemples utiliseront Python). Ollama est un logiciel libre et gratuit, installable sur Windows, Mac et Linux.
+Cet atelier présentera l'utilisation de l'outil Ollama pour extraire du texte et des données structurées à partir d'images et d'enregistrements sonores. Il abordera l'installation et le fonctionnement d'Ollama et proposera des exemples concrets pouvant être explorés en temps réel. Ollama offre une interface de clavardage facile à utiliser, ainsi qu'une API permettant un accès programmatique au service via des scripts dans divers langages (les exemples utiliseront Python). Ollama est un logiciel libre et gratuit, installable sur Windows, Mac et Linux.
 
-Il s'appuie sur des modèles de langage (LLM) gratuits et téléchargeables, utiles pour diverses tâches telles que la reconnaissance optique de caractères (OCR), la transcription vocale ou l'extraction de données structurées (formats CSV ou JSON). Avec un processeur graphique (GPU) performant et des scripts Python, il est possible d'automatiser ces tâches pour traiter de grands ensembles d'images de pages. La qualité des résultats dépend de la taille du modèle, elle-même conditionnée par le matériel utilisé. Les meilleurs résultats sont obtenus sur des machines équipées d'un GPU NVIDIA ou sur des Mac dotés d'une mémoire unifiée ; toutefois, même sur un système plus modeste, l'outil permet d'explorer les capacités des LLM pour diverses tâches.
+Il s'appuie sur des grands modèles de langage (LLMs) gratuits et téléchargeables, utiles pour diverses tâches telles que la reconnaissance optique de caractères (ROC), la transcription vocale ou l'extraction de données structurées (formats CSV ou JSON). Avec un processeur graphique (GPU) performant et des scripts Python, il est possible d'automatiser ces tâches pour traiter de grands ensembles d'images. La qualité des résultats dépend de la taille du modèle, elle-même conditionnée par le matériel utilisé. Les meilleurs résultats sont obtenus sur des machines équipées d'un GPU NVIDIA ou sur des Mac dotés d'une mémoire unifiée ; toutefois, même sur un système plus modeste, l'outil permet d'explorer les capacités des LLMs pour diverses tâches.
 
-L'atelier présentera trois cas d'usage : l'OCR d'un texte manuscrit, la transcription d'un enregistrement vocal et l'extraction de données CSV à partir d'un document imprimé structuré. Les exemples s'appuieront à la fois sur l'application de bureau et sur des scripts Python. Vous vous familiariserez ainsi avec les méthodes fondamentales d'application des LLM à ces problématiques de recherche. Bien que ces processus puissent être transposés vers des services d'IA en ligne payants, les résultats obtenus avec un LLM local sur une station de travail aux performances correctes seront, pour la plupart des besoins de recherche, d'une qualité équivalente.
+L'atelier présentera trois cas d'usage : la ROC d'un texte manuscrit, la transcription d'un enregistrement vocal et l'extraction de données CSV à partir d'un document textuel structuré. Les exemples s'appuieront à la fois sur l'application de bureau et sur des scripts Python. Vous vous familiariserez ainsi avec les méthodes fondamentales d'application des LLMs à ces problématiques de recherche. Bien que ces processus puissent être transposés vers des services d'IA en ligne payants, les résultats obtenus avec un LLM local sur une station de travail aux performances correctes seront, pour la plupart des besoins de recherche, d'une qualité équivalente.
 
-Formatrice ou formateur : [Peter Binkley](https://profile.hcommons.org/members/pbinkley/) est bibliothécaire à l'Université de l'Alberta (U of A Library) ; il y anime des ateliers et propose des consultations pour accompagner les chercheurs dans les méthodes et enjeux des humanités numériques (digital scholarship). Il travaille dans les domaines de la numérisation, de la bibliothéconomie numérique et de la préservation numérique depuis le début des années 2000. Spécialiste des études textuelles sur le Moyen Âge latin, il est titulaire d'un doctorat en études médiévales. Ses recherches actuelles portent principalement sur l'histoire, au XXe siècle, des technologies de recherche pré-numériques telles que le microfilm.
+Formatrice ou formateur : [Peter Binkley](https://profile.hcommons.org/members/pbinkley/) est bibliothécaire à l'Université de l'Alberta (U of A Library) ; il y anime des ateliers et propose des consultations pour accompagner les chercheur·ses dans les méthodes et enjeux des humanités numériques (digital scholarship). Il travaille dans les domaines de la numérisation, de la bibliothéconomie numérique et de la préservation numérique depuis le début des années 2000. Spécialiste des études textuelles sur le Moyen Âge latin, il est titulaire d'un doctorat en études médiévales. Ses recherches actuelles portent principalement sur l'histoire, au XXe siècle, des technologies de recherche pré-numériques telles que le microfilm.
 
 [Retour au programme](#page-top)
 
@@ -108,20 +108,20 @@ Formatrice ou formateur : [Peter Binkley](https://profile.hcommons.org/members/p
 - Duration: 2 heures
 - Langue d'instruction: Anglais
 
-Cette session initiera les participants à OpenRefine, un outil puissant, gratuit et libre de droits permettant de travailler avec de grands ensembles de données. Nous verrons rapidement comment utiliser OpenRefine pour nettoyer et formater efficacement des données tabulaires tout en suivant automatiquement les modifications. Cette session est idéale pour les débutants n'ayant aucune connaissance préalable d'OpenRefine. Aucune compétence en programmation n'est requise. Bien que les exemples et les données utilisés soient destinés à la communauté des sciences humaines et sociales, la session est ouverte à toute personne souhaitant découvrir OpenRefine. Consultez le matériel de l'atelier [ici](https://mariasfinnsdottir.ca/openrefine_fall2025/).
+Cette session initiera les participant·es à OpenRefine, un logiciel libre puissant et gratuit permettant de travailler avec de grands ensembles de données au format tabulaire. Nous verrons rapidement comment utiliser OpenRefine pour nettoyer et formater efficacement des données tabulaires tout en suivant automatiquement les modifications. Cette session est idéale pour les débutant·es n'ayant aucune connaissance préalable d'OpenRefine. Aucune compétence en programmation n'est requise. Bien que les exemples et les données utilisés soient destinés à la communauté des sciences humaines et sociales, la session est ouverte à toute personne souhaitant découvrir OpenRefine. Consultez le matériel de l'atelier [ici](https://mariasfinnsdottir.ca/openrefine_fall2025/).
 
-Formatrice ou formateur: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) est spécialiste de sciences humaines et sociales au sein de l'équipe des services de recherche numérique de l'Université de l'Alberta. Elle a obtenu un doctorat en sociologie à l'Université de Toronto en 2024. Elle préside également l'équipe nationale SHS de l'Alliance de recherche numérique du Canada. 
+Formatrice ou formateur: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) est spécialiste des sciences humaines et sociales au sein de l'équipe des services de recherche numérique de l'Université de l'Alberta. Elle a obtenu un doctorat en sociologie à l'Université de Toronto en 2024. Elle préside également l'équipe nationale SHS de l'Alliance de recherche numérique du Canada. 
 
 [Retour au programme](#page-top)
 
 [](){ #ai-en }
 ### Testing AI for Social Science and Humanities Research Using Chainforge
 
-- Date: **3 decembre 2026** à 9h PT | 10h MT | 12h ET | 14h AT
+- Date: **3 décembre 2026** à 9h PT | 10h MT | 12h ET | 14h AT
 - Duration: 2 heures
 - Langue d'instruction: Anglais
 
-Si vous souhaitez utiliser des grands modèles de langage (LLM) dans le cadre de vos recherches, vous aurez probablement envie de tester différentes combinaisons de données probantes, de *prompts* (invites) et de modèles. Chainforge est un environnement de programmation visuelle gratuit, accessible directement dans le navigateur, qui permet de concevoir des flux de travail pour tester des variantes de ces éléments. Lors de cet atelier, nous vous montrerons comment utiliser Chainforge pour créer des flux adaptés à vos besoins de recherche. Nous passerons également en revue certains modèles de flux courants dans les domaines des sciences humaines et sociales.
+Si vous souhaitez utiliser des grands modèles de langage (LLMs) dans le cadre de vos recherches, vous aurez probablement envie de tester différentes combinaisons de données probantes, de *prompts* (invites) et de modèles. Chainforge est un environnement de programmation visuelle gratuit, accessible directement dans le navigateur, qui permet de concevoir des flux de travail pour tester des variantes de ces éléments. Lors de cet atelier, nous vous montrerons comment utiliser Chainforge pour créer des flux adaptés à vos besoins de recherche. Nous passerons également en revue certains modèles de flux courants dans le domaine des sciences humaines et sociales.
 
 Formatrice ou formateur: **Dr Geoffrey Martin Rockwell** est professeur de philosophie et d'humanités numériques à l'Université de l'Alberta. Titulaire d'une chaire en IA Canada-CIFAR, il est également membre de l'Alberta Machine Intelligence Institute. Docteur en philosophie de l'Université de Toronto, il a publié des travaux sur des sujets tels que l'intelligence artificielle et l'éthique, le dialogue philosophique, la visualisation et l'analyse textuelles, les humanités numériques, les technologies éducatives, ainsi que les jeux vidéo et le multimédia. Parmi ses ouvrages, citons *Defining Dialogue: From Socrates to the Internet* (Humanity Books, 2003) et *Hermeneutica*, coécrit avec Stéfan Sinclair (MIT Press, 2016). *Hermeneutica* s'inscrit dans un projet hybride associant texte et outil, en lien avec Voyant Tools (voyant-tools.org), une suite d'outils d'analyse primée. Il a récemment codirigé les ouvrages *Right Research: Modelling Sustainable Research Practices in the Anthropocene* (Open Book Publishers, 2021) et *On Making in the Digital Humanities* (UCL Press, 2023).
 
@@ -134,9 +134,9 @@ Formatrice ou formateur: **Dr Geoffrey Martin Rockwell** est professeur de philo
 - Duration: 3 heures
 - Langue d'instruction: Anglais
 
-Bienvenue à ce cours sur R et RStudio ! Durant cette session, les participants apprendront les bases de la programmation en R et se familiariseront avec l’utilisation de RStudio. Nous aborderons la création d’objets, l’importation et le traitement de données, l’utilisation des bibliothèques de base et la réalisation d’opérations simples. Cette session est idéale pour les débutants n’ayant aucune connaissance préalable de R. Aucune compétence en programmation n’est requise. Bien que les exemples et les données utilisés soient destinés à la communauté des sciences humaines et sociales, la session est ouverte à toute personne intéressée par l’apprentissage de R. Vous pouvez consulter les ressources [ici](https://mariasfinnsdottir.ca/intro_r_fall2025/).
+Bienvenue à ce cours sur R et RStudio ! Durant cette session, les participant·es apprendront les bases de la programmation en R et se familiariseront avec l’utilisation de RStudio. Nous aborderons la création d’objets, l’importation et le traitement de données, l’utilisation des bibliothèques de base et la réalisation d’opérations simples. Cette session est idéale pour les débutant·es n’ayant aucune connaissance préalable de R. Aucune compétence en programmation n’est requise. Bien que les exemples et les données utilisés soient destinés à la communauté des sciences humaines et sociales, la session est ouverte à toute personne intéressée par l’apprentissage de R. Vous pouvez consulter les ressources [ici](https://mariasfinnsdottir.ca/intro_r_fall2025/).
 
-Formatrice ou formateur: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) est spécialiste de sciences humaines et sociales au sein de l'équipe des services de recherche numérique de l'Université de l'Alberta. Elle a obtenu un doctorat en sociologie à l'Université de Toronto en 2024. Elle préside également l'équipe nationale SHS de l'Alliance de recherche numérique du Canada. 
+Formatrice ou formateur: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) est spécialiste des sciences humaines et sociales au sein de l'équipe des services de recherche numérique de l'Université de l'Alberta. Elle a obtenu un doctorat en sociologie à l'Université de Toronto en 2024. Elle préside également l'équipe nationale SHS de l'Alliance de recherche numérique du Canada. 
 
 [Retour au programme](#page-top)
 
@@ -149,32 +149,32 @@ Formatrice ou formateur: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.
 
 Python est l'un des langages de programmation les plus populaires depuis 20 ans. Aujourd'hui, il est un langage essentiel pour l'analyse de données dans de nombreux domaines, notamment en sciences sociales et humaines.
 
-Cet atelier d'initiation vous familiarisera avec les bases de la programmation en Python. Vous découvrirez les principales fonctionnalités du langage, telles que les variables et les types de données, les instructions conditionnelles, les listes, les boucles for/while, les compréhensions de listes et les dictionnaires. Vous apprendrez également à écrire vos propres fonctions et à manipuler et représenter graphiquement des données tabulaires. L'atelier vous offrira de nombreuses occasions de pratiquer ; au lieu d'aborder ces sujets de manière théorique et abstraite, nous travaillerons avec des jeux de données du MoMA et discuterons des concepts au fur et à mesure.
+Cet atelier d'initiation vous familiarisera avec les bases de la programmation en Python. Vous découvrirez les principales fonctionnalités du langage, telles que les variables et les types de données, les instructions conditionnelles, les listes, les boucles for/while, les listes et les dictionnaires. Vous apprendrez également à écrire vos propres fonctions et à manipuler et représenter graphiquement des données tabulaires. L'atelier vous offrira de nombreuses occasions de pratiquer ; au lieu d'aborder ces sujets de manière théorique et abstraite, nous travaillerons avec des jeux de données du Museum of Modern Art (MoMA) et discuterons des concepts au fur et à mesure.
 
-Formatrice ou formateur : **Marie-Hélène Burle** est biologiste de l'évolution et du comportement, formatrice en Software/Data Carpentry et fervente défenseure des logiciels libres. Elle développe et dispense des formations en calcul haute performance et en apprentissage automatique aux chercheurs des universités canadiennes au nom de [l'Université Simon Fraser](https://www.rcg.sfu.ca/) et de [l'Alliance de recherche numérique du Canada](https://alliancecan.ca/).
+Formatrice ou formateur : **Marie-Hélène Burle** est biologiste de l'évolution et du comportement, formatrice en Software/Data Carpentry et fervente défenseure des logiciels libres. Elle développe et dispense des formations en calcul haute performance et en apprentissage automatique aux chercheur·ses des universités canadiennes au nom de [l'Université Simon Fraser](https://www.rcg.sfu.ca/) et de [l'Alliance de recherche numérique du Canada](https://alliancecan.ca/).
 
 [Retour au programme](#page-top)
 
 [](){ #nlp-en }
 ### Using Python for natural language processing (NLP)
 
-- Date: **March 3, 2027** à 9h PT | 10h MT | 12h ET | 14h AT
+- Date: **3 mars 2027** à 9h PT | 10h MT | 12h ET | 14h AT
 - Duration: 3 heures
 - Langue d'instruction: Anglais
 
-Formatrice ou formateur : **Marie-Hélène Burle** est biologiste de l'évolution et du comportement, formatrice en Software/Data Carpentry et fervente défenseure des logiciels libres. Elle développe et dispense des formations en calcul haute performance et en apprentissage automatique aux chercheurs des universités canadiennes au nom de [l'Université Simon Fraser](https://www.rcg.sfu.ca/) et de [l'Alliance de recherche numérique du Canada](https://alliancecan.ca/).
+Formatrice ou formateur : **Marie-Hélène Burle** est biologiste de l'évolution et du comportement, formatrice en Software/Data Carpentry et fervente défenseure des logiciels libres. Elle développe et dispense des formations en calcul haute performance et en apprentissage automatique aux chercheur·ses des universités canadiennes au nom de [l'Université Simon Fraser](https://www.rcg.sfu.ca/) et de [l'Alliance de recherche numérique du Canada](https://alliancecan.ca/).
 
 [Retour au programme](#page-top)
 
 [](){ #rdm-en }
-### How to deposit: Picking a data repository and preparing your data.
+### How to deposit: Picking a data repository and preparing your data
 
 - Date: **16 mars 2027** à 9h PT | 10h MT | 12h ET | 14h AT
 - Duration: 1 heure
 - Langue d'instruction: Anglais
 
-Le dépôt de données est un élément important des principes FAIR et un aspect crucial du cycle de vie de la recherche, d'autant plus qu'il devient une exigence pour un nombre croissant de bailleurs de fonds et d'éditeurs. Cet atelier vous guidera dans le choix d'un dépôt approprié et la préparation de vos données en vue de leur dépôt. Il présentera également le dépôt généraliste national canadien, le Dépôt fédéré de données de recherche.
+L'archivage des données de recherche est un élément important des principes FAIR et une étape cruciale du cycle de vie de la recherche, d'autant plus qu'il devient une exigence pour un nombre croissant de bailleurs de fonds et d'éditeurs. Cet atelier vous guidera dans le choix d'un dépôt de données approprié et dans la préparation de vos données en vue de leur archivage. Il présentera également le dépôt généraliste canadien : le Dépôt fédéré de données de recherche.
 
-Formatrice ou formateur : **Laura Gerlitz** est diplômée de l’Université de l’Alberta, où elle a obtenu une maîtrise en bibliothéconomie et sciences de l’information ainsi qu’une maîtrise ès arts en humanités numériques. Elle est actuellement analyste de métadonnées à l’Alliance de recherche numérique du Canada. Auparavant, elle a travaillé au Dépôt fédéré de données de recherche comme agente de conservation et à la Banque du Canada comme bibliothécaire spécialisée en métadonnées. Elle contribue activement au paysage canadien de la gestion des données de recherche en tant que membre de l’Équipe nationale des sciences humaines et sociales, du Groupe d’experts sur la découverte et les métadonnées et du Groupe d’experts sur la conservation.
+Formatrice ou formateur : **Laura Gerlitz** est diplômée de l’Université de l’Alberta, où elle a obtenu une maîtrise en bibliothéconomie et sciences de l’information ainsi qu’une maîtrise ès arts en humanités numériques. Elle est actuellement analyste de métadonnées à l’Alliance de recherche numérique du Canada. Auparavant, elle a travaillé au Dépôt fédéré de données de recherche comme agente de curation et à la Banque du Canada comme bibliothécaire spécialisée en métadonnées. Elle contribue activement au paysage canadien de la gestion des données de recherche en tant que membre de l’Équipe nationale des sciences humaines et sociales, du Groupe d’experts sur la découvrabilité et les métadonnées, et du Groupe d’experts sur la curation.
 
 [Retour au programme](#page-top)
