@@ -20,7 +20,7 @@ Cliquez sur le titre de l'atelier pour accéder à sa description.
 |----------|------------|
 |[Introduction to the Alliance & ARC for HSS](#intro-en)|22 septembre 2026|
 |[Introduction à l'Alliance & CIP pour SHS](#intro-fr)| 24 septembre 2026|
-|[Endings at the beginning](#endings-en)|6 octobre 2026|
+|[Planning your Endings-Compliant Digital Project](#endings-en)|6 octobre 2026|
 |[Introduction to the cloud for HSS](#cloud-en)|3 novembre 2026|
 |[Ollama for OCR, transcription and data extraction](#ocr-en)|17 novembre 2026|
 |[Introduction to OpenRefine](#openrefine-en)|24 novembre 2026|
