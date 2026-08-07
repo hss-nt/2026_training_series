@@ -50,7 +50,7 @@ plugins:
           name: Français
           build: true
           nav_translations:
-            2026-27 Training Series: Séries de formation, 2026-27
+            2026-27 Training Series: Série d'ateliers de formation, 2026-27
 
 hide:
   - nav
